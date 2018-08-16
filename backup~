@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+cd ~/Documents
+rm Dream.tar.gz
+tar zcvf Dream Dream.tar.gz
