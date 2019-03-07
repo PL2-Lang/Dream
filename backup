@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-
-cd ..
-rm Dream.tar.gz
-tar zcvf Dream.tar.gz Dream
