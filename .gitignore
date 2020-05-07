@@ -10,3 +10,7 @@
 # emacs
 \#*
 *~
+
+# sub repo
+
+Books/*
